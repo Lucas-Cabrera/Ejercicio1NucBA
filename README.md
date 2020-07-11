@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clase-3
 
 ## Cuando entrás por primera vez
@@ -29,3 +30,7 @@ git config --global user.email email@nucba.com.ar
 
 
 
+=======
+# Ejercicio1NucBA
+Primera pagina web
+>>>>>>> f88daff2648bf5bc30cfd1f7cdd98c3197b7f75e
