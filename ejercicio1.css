@@ -1,5 +1,5 @@
 body {
-    background-image: url(imagenfondojusticia.jpg);
+    background-color: black;
     background-position: center;
     background-size: cover;
 }
@@ -68,17 +68,17 @@ padding: 30px;
 border: 10px solid black;
 }
 .derechopenal {
-    background-image: url(Busted.webp);
+    background-image: url(assets/Busted.webp);
     background-size: cover;
     background-position: center;
 }
 .derecholaboral {
-    background-image: url(fired.jpg);
+    background-image: url(assets/fired.jpg);
     background-size: cover;
     background-position: center;
 }
 .derechocivil {
-    background-image: url(accidentetransito.jpg);
+    background-image: url(assets/accidentetransito.jpg);
     background-size: cover;
     background-position: center;
 }
